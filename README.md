@@ -1,13 +1,15 @@
-# Based on extracted files discimg.pkg & system.bin by 
+# Based on Requirements 
 
 [FModel](https://fmodel.app/)
 
-
+[UnrealPak](https://github.com/RiotOreO/unrealpak)
 
 # CCFF7R-Tool-Localization
 tool unpacking, modifying, and repacking game files for Crisis Core Final Fantasy VII Reunion, primarily focusing on text localization and font customization.
 
 Download the tool [CCFF7R-Tool-Localization](https://github.com/MrGamesKingPro/CCFF7R-Tool-Localization/releases/tag/CCFF7R-Tool-Localization)
+
+![CRISIS CORE](https://github.com/user-attachments/assets/45594d6f-1618-4a96-9ff7-d96940d0c5ac)
 
 
 ## how to use the tool:
